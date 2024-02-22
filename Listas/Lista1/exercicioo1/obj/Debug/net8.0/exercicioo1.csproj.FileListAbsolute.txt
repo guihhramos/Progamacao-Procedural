@@ -1,0 +1,15 @@
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista1\exercicioo1\bin\Debug\net8.0\exercicioo1.exe
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista1\exercicioo1\bin\Debug\net8.0\exercicioo1.deps.json
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista1\exercicioo1\bin\Debug\net8.0\exercicioo1.runtimeconfig.json
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista1\exercicioo1\bin\Debug\net8.0\exercicioo1.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista1\exercicioo1\bin\Debug\net8.0\exercicioo1.pdb
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista1\exercicioo1\obj\Debug\net8.0\exercicioo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista1\exercicioo1\obj\Debug\net8.0\exercicioo1.AssemblyInfoInputs.cache
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista1\exercicioo1\obj\Debug\net8.0\exercicioo1.AssemblyInfo.cs
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista1\exercicioo1\obj\Debug\net8.0\exercicioo1.csproj.CoreCompileInputs.cache
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista1\exercicioo1\obj\Debug\net8.0\exercicioo1.sourcelink.json
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista1\exercicioo1\obj\Debug\net8.0\exercicioo1.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista1\exercicioo1\obj\Debug\net8.0\refint\exercicioo1.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista1\exercicioo1\obj\Debug\net8.0\exercicioo1.pdb
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista1\exercicioo1\obj\Debug\net8.0\exercicioo1.genruntimeconfig.cache
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista1\exercicioo1\obj\Debug\net8.0\ref\exercicioo1.dll
