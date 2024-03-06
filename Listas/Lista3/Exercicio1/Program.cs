@@ -9,7 +9,7 @@ class Program
     int somatorioFilhosn = 0;
     double maiorSalario = 0;
 
-    for (int contador = 0; contador < NUMERO_HABITANTES; contador++)
+    for (int contador = 1; contador < NUMERO_HABITANTES; contador++)
     {
       Console.WriteLine(contador + "º cidadao: digite o valor medio do seu salario");
       double salarioCidadao = double.Parse(Console.ReadLine());

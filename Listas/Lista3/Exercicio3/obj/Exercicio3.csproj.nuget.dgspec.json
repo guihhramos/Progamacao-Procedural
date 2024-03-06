@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gsilv\\OneDrive\\Área de Trabalho\\Progamacao-Procedural\\Listas\\Lista3\\Exercicio3\\Exercicio3.csproj": {}
+    "C:\\Users\\gsilv\\OneDrive\\Área de Trabalho\\Progamacao-Procedural\\Listas\\Lista3\\exercicio3\\Exercicio3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gsilv\\OneDrive\\Área de Trabalho\\Progamacao-Procedural\\Listas\\Lista3\\Exercicio3\\Exercicio3.csproj": {
+    "C:\\Users\\gsilv\\OneDrive\\Área de Trabalho\\Progamacao-Procedural\\Listas\\Lista3\\exercicio3\\Exercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gsilv\\OneDrive\\Área de Trabalho\\Progamacao-Procedural\\Listas\\Lista3\\Exercicio3\\Exercicio3.csproj",
+        "projectUniqueName": "C:\\Users\\gsilv\\OneDrive\\Área de Trabalho\\Progamacao-Procedural\\Listas\\Lista3\\exercicio3\\Exercicio3.csproj",
         "projectName": "Exercicio3",
-        "projectPath": "C:\\Users\\gsilv\\OneDrive\\Área de Trabalho\\Progamacao-Procedural\\Listas\\Lista3\\Exercicio3\\Exercicio3.csproj",
+        "projectPath": "C:\\Users\\gsilv\\OneDrive\\Área de Trabalho\\Progamacao-Procedural\\Listas\\Lista3\\exercicio3\\Exercicio3.csproj",
         "packagesPath": "C:\\Users\\gsilv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gsilv\\OneDrive\\Área de Trabalho\\Progamacao-Procedural\\Listas\\Lista3\\Exercicio3\\obj\\",
+        "outputPath": "C:\\Users\\gsilv\\OneDrive\\Área de Trabalho\\Progamacao-Procedural\\Listas\\Lista3\\exercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gsilv\\AppData\\Roaming\\NuGet\\NuGet.Config"
