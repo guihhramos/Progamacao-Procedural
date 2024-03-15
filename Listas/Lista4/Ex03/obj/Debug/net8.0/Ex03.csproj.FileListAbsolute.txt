@@ -1,0 +1,15 @@
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista4\Ex03\obj\Debug\net8.0\Ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista4\Ex03\obj\Debug\net8.0\Ex03.AssemblyInfoInputs.cache
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista4\Ex03\obj\Debug\net8.0\Ex03.AssemblyInfo.cs
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista4\Ex03\obj\Debug\net8.0\Ex03.csproj.CoreCompileInputs.cache
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista4\Ex03\obj\Debug\net8.0\Ex03.sourcelink.json
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista4\Ex03\bin\Debug\net8.0\Ex03.exe
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista4\Ex03\bin\Debug\net8.0\Ex03.deps.json
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista4\Ex03\bin\Debug\net8.0\Ex03.runtimeconfig.json
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista4\Ex03\bin\Debug\net8.0\Ex03.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista4\Ex03\bin\Debug\net8.0\Ex03.pdb
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista4\Ex03\obj\Debug\net8.0\Ex03.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista4\Ex03\obj\Debug\net8.0\refint\Ex03.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista4\Ex03\obj\Debug\net8.0\Ex03.pdb
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista4\Ex03\obj\Debug\net8.0\Ex03.genruntimeconfig.cache
+C:\Users\gsilv\OneDrive\Área de Trabalho\Progamacao-Procedural\Listas\Lista4\Ex03\obj\Debug\net8.0\ref\Ex03.dll
